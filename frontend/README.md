@@ -1,16 +1,73 @@
-# React + Vite
+# 🎨 ArtMentorAI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered art learning assistant that helps beginner artists improve their drawing skills.
 
-Currently, two official plugins are available:
+## 🚀 Current Version
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Version: v0.1-chatbot-mvp
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- AI Art Mentor Chatbot
+- Drawing knowledge assistant
+- RAG based knowledge retrieval
+- Manga and portrait drawing guidance
+- Material explanation
+- Loomis method guidance
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🏗️ Tech Stack
+
+### Backend
+
+- Python
+- FastAPI
+- LangChain
+- FAISS
+- Groq API
+
+
+### Frontend
+
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
+
+
+## 📂 Project Structure
+
+
+## 🔮 Future Roadmap
+
+### Version 0.2
+Premium AI Art Studio UI
+
+- Digital canvas
+- Learning dashboard
+- Artist profile
+
+
+### Version 0.3
+
+AI Drawing Analysis
+
+- Upload artwork
+- AI feedback
+- Skill evaluation
+
+
+### Version 0.4
+
+Manga Practice Engine
+
+- Step-by-step character drawing
+- Line guidance
+- Pose practice
+
+
+### Version 1.0
+
+Complete AI Art Learning Platform
+
