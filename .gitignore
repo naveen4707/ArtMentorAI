@@ -1,0 +1,31 @@
+# Python
+
+backend/venv/
+__pycache__/
+*.pyc
+
+
+# Secrets
+
+.env
+
+
+# AI Generated Files
+
+backend/vectorstore/
+
+models/
+
+
+# React
+
+frontend/node_modules/
+frontend/dist/
+
+
+# Large files
+
+*.pt
+*.pth
+*.bin
+*.onnx
